@@ -1,0 +1,56 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background-color: #333333;
+  color: beige;
+  font-size: xx-large;
+  text-align: center;
+  padding: 20px;
+}
+
+.about {
+  padding: 30px;
+  font-size: xx-large;
+  background-color: cornsilk;
+  text-align: center;
+}
+
+.about p {
+  font-size: large;
+  color: slategrey;
+}
+
+.projects {
+  padding: 20px;
+  text-align: center;
+  font-size: xx-large;
+  background-color: cornsilk;
+}
+
+.projects img {
+  width: 400px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.contact {
+  text-align: center;
+  font-size: xx-large;
+  background-color: cornsilk;
+}
+
+.contact p {
+  font-size: large;
+  color: blue;
+}
+
+footer {
+  background-color: #333333;
+  color: beige;
+  text-align: center;
+  padding: 20px;
+}
